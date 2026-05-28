@@ -1,2 +1,2 @@
 ## logic gate
-![AND Gate](not_gate.png)
+![AND Gate](not_gate.PNG)
